@@ -10,6 +10,8 @@ import java.util.Collection;
 
 /**
  * Test linear programming
+ * @author SF
+ * @since 2017-12-21
  */
 public class LP {
     public static void main(String[] args){
